@@ -33,11 +33,11 @@ Certified full-stack developer with expertise in Javascript and its libraries (R
 <img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
 <img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-jquerry.png" width="100" height="auto" alt="jquery" name="jquery">
 <img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-babel.png" width="100" height="auto" alt="babel" name="babel">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-react.png" width="100" height="auto" alt="react" name="reactjs">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-redux.png" width="100" height="auto" alt="redux" name="redux">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-vue-js.png" width="100" height="auto" alt="vue" name="vue">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-webpack.png" width="100" height="auto" alt="webpack" name="webpack">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-es6.png" width="100" height="auto" alt="javascript 6" name="es6">
   
 </details>
 
@@ -46,12 +46,36 @@ Certified full-stack developer with expertise in Javascript and its libraries (R
 
 #### Backend & Database</summary>
 
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-node-js.png" width="100" height="auto" alt="node" name="nodejs">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-express.png" width="100" height="auto" alt="express" name="express">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-sql.png" width="100" height="auto" alt="sequel" name="sql">
 <img src="https://github.com/mrietzl/mrietzl/blob/main/web-development-PostgreSQL.png" width="100" height="auto" alt="postgre" name="postgresql">
-<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-css-3.png" width="100" height="auto" alt="css" name="css">
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 </details>
-  
+
+<details>
+<summary>
+
+#### Frontend & Backend</summary>
+
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-js.png" width="100" height="auto" alt="javascript" name="javascript">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-handlebars.png" width="100" height="auto" alt="handlebars" name="handlebars">
+
+
+</details>
+
+<details>
+<summary>
+
+#### Cloud</summary>
+
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-aws.png" width="100" height="auto" alt="amazon" name="awss">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-socket-io.png" width="100" height="auto" alt="socket io" name="socket.io">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-json.png" width="100" height="auto" alt="json" name="json">
+
+</details>
+
 ## Hobbies
-♞  In my free time, I enjoy playing chess to help manage stress.
+♞  In my free time, I enjoy playing chess to help manage stress and
+watching ⚽ competitions.
+I am good at 🏓and 🎱

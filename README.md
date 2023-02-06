@@ -23,20 +23,35 @@ Certified full-stack developer with expertise in Javascript and its libraries (R
 
 ## Skills and Toolkits
 
-![PostGreSql](https://github.com/mrietzl/mrietzl/blob/main/web-development-PostgreSQL.png)
-
 ### Web Development
 <details>
 <summary>
 
 #### Frontend</summary>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-css-3.png" width="100" height="auto" alt="css" name="css">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-jquerry.png" width="100" height="auto" alt="jquery" name="jquery">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-babel.png" width="100" height="auto" alt="babel" name="babel">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-html-5.png" width="100" height="auto" alt="html" name="html">
+  
+</details>
+
+<details>
+<summary>
+
+#### Backend & Database</summary>
+
+<img src="https://github.com/mrietzl/mrietzl/blob/main/web-development-PostgreSQL.png" width="100" height="auto" alt="postgre" name="postgresql">
+<img src="https://github.com/mrietzl/mrietzl/raw/main/web-development-css-3.png" width="100" height="auto" alt="css" name="css">
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 </details>
-
   
 ## Hobbies
 ♞  In my free time, I enjoy playing chess to help manage stress.
